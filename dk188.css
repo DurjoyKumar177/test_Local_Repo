@@ -1,0 +1,10 @@
+h1{
+    color:greenyellow;
+    text-align:center;
+    font-size: 30px;
+}
+.intro p{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
